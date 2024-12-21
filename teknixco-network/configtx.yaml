@@ -1,0 +1,6 @@
+Profiles:
+  TeknixcoChannel:
+    Consortium: SampleConsortium
+    Application:
+      Capabilities:
+        - V2_0
